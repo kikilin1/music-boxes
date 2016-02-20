@@ -1,6 +1,10 @@
 body{
 
-    background-color: #cccccc;
+    background-image:url(music_notes/colorful-music.jpg);
+    background-size: 1280px 925px;
+    background-repeat: no-repeat;
+    
+   
 }
 
 
@@ -8,7 +12,7 @@ body{
     width:80%;
     margin:auto;
     position:absolute;
-    top:0;left:0;right:0;bottom:0;
+    top:100px;left:0;right:0;bottom:0;
     background-color:rgba(220,220,220,0.3);
     height:100px;
 
